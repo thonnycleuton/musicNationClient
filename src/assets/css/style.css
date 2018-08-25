@@ -1,0 +1,17 @@
+.page-container {
+  height: 100vh; }
+
+.md-app {
+  height: 100%; }
+
+.md-toolbar-row {
+  max-width: 80%;
+  margin: 0 auto; }
+
+.md-app.md-overlap .md-app-content {
+  margin: -64px auto;
+  max-width: 80%;
+  height: auto;
+  margin-bottom: 50px; }
+
+/*# sourceMappingURL=style.css.map */
